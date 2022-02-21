@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.807,=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\TComplexNumber\ComplexNumber.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.856,=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\TComplexNumber\myPackagePCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.829,=vcl.bpi</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.840,=rtl.bpi</Transaction>
+    <Transaction>2022 02 21 23:55:43.507,=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\TComplexNumber\TComplexNumber.bmp</Transaction>
+  </Transactions>
+</BorlandProject>

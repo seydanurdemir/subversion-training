@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022 02 22 01:37:22.747,=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022 02 22 01:37:23.105,=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022 02 22 01:37:49.101,C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project6\Unit1.dfm=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022 02 22 01:37:49.101,C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project6\Unit1.cpp=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022 02 22 01:37:49.101,C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project6\Unit1.h=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022 02 22 01:37:51.886,C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project6\Project1PCH1.h=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022 02 22 01:37:54.435,C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project6\Project1.cbproj=C:\Users\SeydaNur\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
